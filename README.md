@@ -91,7 +91,7 @@ To start the FastAPI backend:
 
 4. **Start the FastAPI server:**
     ```bash
-    uvicorn backend:app --reload
+    uvicorn main:app --reload
     ```
 
 ### Running the Frontend
